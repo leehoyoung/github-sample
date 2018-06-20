@@ -7,7 +7,7 @@ import java.util.List;
  * int 배열과 String 배열을 생성하고 출력해보는 클래스
  * @author HannaC
  *
- */
+ *////
 public class ArrayTest {
 
 	public static void main(String[] args) {
