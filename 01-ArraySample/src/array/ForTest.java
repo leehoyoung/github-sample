@@ -3,7 +3,7 @@ package array;
 /**
  * Enhanced for statement 의 용법을 테스트하는 클래스
  * @author HannaC  
- */////
+ *////////////
 public class ForTest {
 
 	public static void main(String[] args) {
